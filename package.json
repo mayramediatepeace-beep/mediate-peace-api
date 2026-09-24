@@ -1,0 +1,6 @@
+{
+  "name": "mediate-peace-api-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless proxy for the Mediate Peace dashboard."
+}
